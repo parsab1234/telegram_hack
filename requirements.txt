@@ -1,0 +1,4 @@
+pip intall python3
+requests
+colorama
+random
