@@ -1,6 +1,6 @@
 # **Telegram Hack Tool**  
 
-**Version:** 1.0  
+**Version:** 3.0  
 **Author:** [HackBitGod]  
 
 ---
@@ -10,6 +10,7 @@
 This project is a proof-of-concept (PoC) designed to showcase the capabilities of the Telegram API for educational purposes and ethical research. It serves as a tool to demonstrate how Telegram bots and accounts can interact with users, groups, and channels programmatically. This repository aims to help developers and cybersecurity enthusiasts better understand secure development practices and bot automation principles.
 
 🚨 **This is a hacking tool. Misuse of this software for malicious purposes is prohibited and against the law.**
+![telegram-hack](https://github.com/Hack-BitGod/telegram_hack/blob/main/TelegramHack.png)
 
 ---
 ## For questions or assistance on bypassing 2FA (Two-Factor Authentication) telegram security measures, Message me on Telegram: https://t.me/HackBitGod Email Me: hackbitgod@gmail.com
