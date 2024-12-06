@@ -34,8 +34,8 @@ This project is a proof-of-concept (PoC) designed to showcase the capabilities o
 ### **Steps to Install**  
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/telegram-hack-tool.git
-   cd telegram-hack-tool
+   git clone https://github.com/Hack-BitGod/telegram_hack.git
+   cd telegram_hack
    ```
 2. Install dependencies:
    ```bash
